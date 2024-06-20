@@ -1,0 +1,23 @@
+{
+  "name": "TRUMP BTC",
+  "symbol": "TBTC",
+  "description": "TRUMP BTC (TBTC) is a meme token created to celebrate the cultural impact and unique persona of Donald J. Trump in the world of cryptocurrencies. Whether you're a fan or simply intrigued by the phenomena, TRUMP BTC offers a fun and engaging way to participate in the crypto community.",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Meme"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Unique"
+    }
+  ],
+  "seller_fee_basis_points": 500,
+  "creators": [
+    {
+      "address": "9faryCoEGDfRMs7puQq2BzZcfLHDdvSuyfVbnswuxPNQ",
+      "verified": true,
+      "share": 100
+    }
+  ]
+}
